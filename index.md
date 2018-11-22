@@ -333,6 +333,7 @@
 [FinalExam_possibleAnswers.docx](https://github.com/lib-pku/libpku/tree/master/%E8%8B%B1%E8%AF%AD%E8%AF%BE%2FC%2F17-18%E7%A7%8B%E7%BB%8F%E5%85%B8%E8%8B%B1%E7%BE%8E%E8%AF%97%E6%AD%8C%E7%BF%BB%E8%AF%91%E4%B8%8E%E9%89%B4%E8%B5%8F%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98%E4%B8%AA%E4%BA%BA%E6%95%B4%E7%90%86by%E5%88%98%E9%9F%AB%E8%BE%89%2FFinalExam_possibleAnswers.docx)
 [PoemsofFinalExams.docx](https://github.com/lib-pku/libpku/tree/master/%E8%8B%B1%E8%AF%AD%E8%AF%BE%2FC%2F17-18%E7%A7%8B%E7%BB%8F%E5%85%B8%E8%8B%B1%E7%BE%8E%E8%AF%97%E6%AD%8C%E7%BF%BB%E8%AF%91%E4%B8%8E%E9%89%B4%E8%B5%8F%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98%E4%B8%AA%E4%BA%BA%E6%95%B4%E7%90%86by%E5%88%98%E9%9F%AB%E8%BE%89%2FPoemsofFinalExams.docx)
 [TestPaperItself.jpg](https://github.com/lib-pku/libpku/tree/master/%E8%8B%B1%E8%AF%AD%E8%AF%BE%2FC%2F17-18%E7%A7%8B%E7%BB%8F%E5%85%B8%E8%8B%B1%E7%BE%8E%E8%AF%97%E6%AD%8C%E7%BF%BB%E8%AF%91%E4%B8%8E%E9%89%B4%E8%B5%8F%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98%E4%B8%AA%E4%BA%BA%E6%95%B4%E7%90%86by%E5%88%98%E9%9F%AB%E8%BE%89%2FTestPaperItself.jpg)
+[美国重要历史文献复习归纳 by css.docx](https://github.com/lib-pku/libpku/tree/master/%E8%8B%B1%E8%AF%AD%E8%AF%BE%2FC%2F%E7%BE%8E%E5%9B%BD%E9%87%8D%E8%A6%81%E5%8E%86%E5%8F%B2%E6%96%87%E7%8C%AE%E5%A4%8D%E4%B9%A0%E5%BD%92%E7%BA%B3%20by%20css.docx)
 ## 通选课
 ### A
 #### 人类的性、生育与健康
